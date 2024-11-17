@@ -38,4 +38,5 @@ public:
         
         return check(root1->left, root2->right) && check(root1->right, root2->left);
     }
+    //program ends
 };
